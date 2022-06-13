@@ -1,0 +1,7 @@
+2022-06-13 10:30:07,366: INFO: ====== WebDriver manager ======
+2022-06-13 10:30:07,407: INFO: Current google-chrome version is 101.0.4951
+2022-06-13 10:30:07,408: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-06-13 10:30:12,885: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/101.0.4951.41/chromedriver_linux64.zip
+2022-06-13 10:30:21,243: INFO: Driver has been saved in cache [/home/awadhprajapat/.wdm/drivers/chromedriver/linux64/101.0.4951.41]
+2022-06-13 10:30:38,280: INFO: Driver quitting
+2022-06-13 10:30:38,357: INFO: Driver quitted

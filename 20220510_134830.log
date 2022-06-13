@@ -1,0 +1,8 @@
+2022-05-10 13:48:31,040: INFO: 
+
+2022-05-10 13:48:31,040: INFO: ====== WebDriver manager ======
+2022-05-10 13:48:31,087: INFO: Current google-chrome version is 100.0.4896
+2022-05-10 13:48:31,102: INFO: Get LATEST driver version for 100.0.4896
+2022-05-10 13:48:35,555: INFO: Driver [C:\Users\awadh.prajapat_infob\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+2022-05-10 13:49:50,881: INFO: Driver quitting
+2022-05-10 13:49:53,583: INFO: Driver quitted
